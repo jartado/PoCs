@@ -1,0 +1,11 @@
+C:\Users\Javier\source\repos\Proyecto_Escolar\Proyecto_Escolar\bin\Debug\Proyecto_Escolar.exe.config
+C:\Users\Javier\source\repos\Proyecto_Escolar\Proyecto_Escolar\bin\Debug\Proyecto_Escolar.exe
+C:\Users\Javier\source\repos\Proyecto_Escolar\Proyecto_Escolar\bin\Debug\Proyecto_Escolar.pdb
+C:\Users\Javier\source\repos\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.csprojAssemblyReference.cache
+C:\Users\Javier\source\repos\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.Login.resources
+C:\Users\Javier\source\repos\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.Menu.resources
+C:\Users\Javier\source\repos\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.Properties.Resources.resources
+C:\Users\Javier\source\repos\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.csproj.GenerateResource.cache
+C:\Users\Javier\source\repos\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.exe
+C:\Users\Javier\source\repos\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.pdb
